@@ -1,0 +1,18 @@
+{
+  "name": "pub-pkg-jquery",
+  "version": "1.11.3",
+  "description": "pub-server package to inject jQuery",
+  "main": "pub-config.js",
+  "dependencies": {
+  },
+  "keywords": [
+    "publish",
+    "jquery"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jldec/pub-pkg-jquery.git"
+  },
+  "author": "jurgen leschner",
+  "license": "MIT"
+}
