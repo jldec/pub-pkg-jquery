@@ -14,7 +14,7 @@ npm install -g pub-server
 
 Layout templates which use `{{{injectJs}}}` will automatically link to
 
-`<script src="/js/jquery-1.11.3.min.js"></script>`
+`<script src="/js/jquery-1.12.4.min.js"></script>`
 
 To disable this set `opts.jquery=false` in your pub-config
 
@@ -23,4 +23,4 @@ the version number of this npm module.
 
 
 ### credits
-jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license
+jQuery v1.12.4 | (c) jQuery Foundation | [jquery.org/license](https://jquery.org/license)

@@ -1,10 +1,9 @@
 {
   "name": "pub-pkg-jquery",
-  "version": "1.11.3",
+  "version": "1.12.4",
   "description": "pub-server package to inject jQuery",
   "main": "pub-config.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "keywords": [
     "publish",
     "jquery"
