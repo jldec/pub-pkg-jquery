@@ -1,6 +1,6 @@
 # pub-pkg-jquery
 
-pub-server package for injecting [jQuery](http://jquery.com/)
+pub-server package for injecting [jQuery](https://jquery.com/)
 
 ### installation
 
